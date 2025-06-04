@@ -417,3 +417,18 @@
             opacity: 1;
             transform: translateY(0);
         }
+
+        .ultra-regular {
+            font-family: "Ultra", serif;
+            font-weight: 200;
+            font-style: normal;
+        }
+        
+        
+        .ancizar-serif{
+            font-family: "Ancizar Serif", serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+        }
+
